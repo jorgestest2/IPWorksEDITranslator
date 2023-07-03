@@ -1,14 +1,5 @@
-# Sample Projects
-
-## Requirements
-These sample projects require the latest version of IPWorks EDI Translator.  Please download from:
-
-> Download: [https://www.nsoftware.com/ipworkseditranslator](https://www.nsoftware.com/ipworkseditranslator)
-
-## Sample Projects
-The sample projects demonstrate the usage of the IPWorks EDI Translator components in a simple, 
-straightforward way.  They are not complete applications and they are not intended to be.
-Error handling and other checks are simplified for clarity.
+# IPWorksEDITranslator Sample Projects
+The provided sample projects offer a concise yet effective demonstration of the IPWorks components, showcasing their usage in a straightforward manner. While they are not intended to be complete applications, they serve as valuable illustrations of key features. To enhance clarity, error handling and checks are simplified, allowing users to focus on the core functionality. These projects provide a solid foundation for developers to explore and customize, enabling them to construct more elaborate applications while understanding the fundamental concepts and mechanisms at play.
 
 | Sample Project | Description |
 | --- | --- |
@@ -18,6 +9,9 @@ Error handling and other checks are simplified for clarity.
 | [X12 Parser](./X12%20Parser) | Shows how to parse EDI X12 document via the ParseFile or Input methods. |
 | [X12 Translator](./X12%20Translator) | This demo shows how to use X12Translator to translate an X12 formatted document to XML. |
 | [X12 Writer](./X12%20Writer) | This demo shows how to use X12Writer to create X12 documents. |
+
+## Requirements
+IPWorks EDI Translator 2022 libraries for the corresponding edition are required to run these samples.  Free download from: [https://www.nsoftware.com/ipworkseditranslator](https://www.nsoftware.com/ipworkseditranslator)
 
 ## Support
 If you have questions or need help, please contact support@nsoftware.com or explore other support options 
